@@ -19,12 +19,12 @@
 <details>
  <summary>Primi Piatti</summary>
  
-  - ['A Carbonara]('A%20Carbonara.pdf)
-  - [Minestrone dei poveri però buono](Minestrone%20dei%20poveri%20però%20buono.pdf)
-  - [Pasta al cavolfiore rosso](Pasta%20al%20cavolfiore%20rosso.pdf)
-  - [Pasta all’assassina non cancerogena](Pasta%20all’assassina%20non%20cancerogena.pdf)
-  - [Riso alla porca troia](Riso%20alla%20porca%20troia.pdf)
-  - [Spaghetti con pomodorini freschi ai due sapori](Spaghetti%20con%20pomodorini%20freschi%20ai%20due%20sapori.pdf)
+  - ['A Carbonara](Primi%20Piatti/'A%20Carbonara.pdf)
+  - [Minestrone dei poveri però buono](Primi%20Piatti/Minestrone%20dei%20poveri%20però%20buono.pdf)
+  - [Pasta al cavolfiore rosso](Primi%20Piatti/Pasta%20al%20cavolfiore%20rosso.pdf)
+  - [Pasta all’assassina non cancerogena](Primi%20Piatti/Pasta%20all’assassina%20non%20cancerogena.pdf)
+  - [Riso alla porca troia](Primi%20Piatti/Riso%20alla%20porca%20troia.pdf)
+  - [Spaghetti con pomodorini freschi ai due sapori](Primi%20Piatti/Spaghetti%20con%20pomodorini%20freschi%20ai%20due%20sapori.pdf)
 </details>
 
 ## Documentazione
