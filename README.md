@@ -3,6 +3,9 @@
 
 ## Table of Contents
 - [Ricettario](#ricettario)
+  - [Antipasti e Cocktails](#antipasti-e-cocktails)
+  - [Primi Piatti](#primi-piatti)
+  - [Secondi](#secondi)
 - [Documentazione](#documentazione)
   - [Inizializzazione](#inizializzazione)
   - [Inserire una ricetta](#inserire-una-ricetta)
@@ -25,6 +28,17 @@
   - [Pasta all’assassina non cancerogena](Primi%20Piatti/Pasta%20all’assassina%20non%20cancerogena.pdf)
   - [Riso alla porca troia](Primi%20Piatti/Riso%20alla%20porca%20troia.pdf)
   - [Spaghetti con pomodorini freschi ai due sapori](Primi%20Piatti/Spaghetti%20con%20pomodorini%20freschi%20ai%20due%20sapori.pdf)
+</details>
+
+<details>
+ <summary>Secondi</summary>
+   
+   - [Frico all’Ischitana](Secondi/Frico%20all’Ischitana)
+   - [Peperoni Ripieni della Speranza](Secondi/Peperoni%20Ripieni%20della%20Speranza)
+   - [Pollo coi peperoni](Secondi/Pollo%20coi%20peperoni)
+   - [Pollo simpatico](Secondi/Pollo%20simpatico)
+   - [Scaloppine all’arancia](Secondi/Scaloppine%20all’arancia)
+ 
 </details>
 
 ## Documentazione
