@@ -72,11 +72,11 @@
 
 ## Documentazione
 ### Inizializzazione
-1. [Installa Git sul tuo pc](https://git-scm.com/downloads). Impostazioni consigliate:
-    - | ![](https://i.imgur.com/2hk611Q.png) | 
+1. [Installa Git sul tuo pc](https://git-scm.com/download/win). Impostazioni consigliate:
+    - | ![](https://i.imgur.com/5mYNek7.png) | 
       |:--:| 
       | *deseleziona “Git GUI Here”* |
-    - | ![](https://i.imgur.com/7rOS7ax.png) | 
+    - | ![](https://i.imgur.com/jqBYpcR.png) | 
       |:--:| 
       | *se installato (consigliato), scegli Notepad++;*
         *in alternativa, scegli Notepad (preinstallato su Windows)* |
@@ -94,7 +94,7 @@ I file ora sono disponibili nella cartella selezionata, ad esempio C:\Users\\*no
 ### Inserire una ricetta
 
 0. _Solo la prima volta: [Crea un account su GitHub](https://github.com/signup), installa il font disponibile nella cartella utils: [Comfortaa.ttf](utils/Comfortaa.ttf)_
-1.  | ![](https://i.imgur.com/9jg2qpe.png) | 
+1.  | ![](https://i.imgur.com/yTjTJm8.png) | 
     |:--:| 
     | *Da esplora risorse, tasto destro nella cartella principale -> Git Bash Here* |
 2. Esegui il comando **git pull** per sincronizzare eventuali modifiche
