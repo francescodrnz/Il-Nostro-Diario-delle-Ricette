@@ -3,3 +3,7 @@
 
 ## Installazione
 Consultare la [documentazione](utils/documentazione.pdf)
+
+## Ricettario
+[Antipasti e Cocktails](/Antipasti e Cocktails)
+[Primi Piatti](/Primi Piatti)
