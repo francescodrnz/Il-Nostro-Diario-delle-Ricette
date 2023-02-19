@@ -55,6 +55,19 @@
    - [Spadellata della Bandiera Indiana](Contorni/Spadellata%20della%20Bandiera%20Indiana.pdf)
    
 </details>
+
+<details>
+ <summary>Dolci</summary>
+ 
+   - [Cookies di Chicago](Dolci/Cookies%20di%20Chicago)
+   - [Crema Pasticciata](Dolci/Crema%20Pasticciata)
+   - [Pasticciotti Leccesi](Dolci/Pasticciotti%20Leccesi)
+   - [Plumcake allo yogurt](Dolci/Plumcake%20allo%20yogurt)
+   - [Torta al cioccolato di Akira](Dolci/Torta%20al%20cioccolato%20di%20Akira)
+   - [Torta di carote](Dolci/Torta%20di%20carote)
+   - [Tortino al cioccolato con cuore morbido](Dolci/Tortino%20al%20cioccolato%20con%20cuore%20morbido)
+   
+</details>
  
 
 ## Documentazione
