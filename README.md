@@ -36,11 +36,11 @@
       | *deseleziona “Git GUI Here”* |
     - | ![](https://i.imgur.com/7rOS7ax.png) | 
       |:--:| 
-      | *se installato (consigliato), scegliere Notepad++;*
-        *in alternativa, scegliere Notepad (preinstallato su Windows)* |
-    - lasciare le altre impostazioni di default
-  3.	Aprire il prompt dei comandi: start -> cercare cmd
-4.	Scegliere una cartella su cui si salverà la repository, ad es. Documenti, ed eseguire il seguente comando:
+      | *se installato (consigliato), scegli Notepad++;*
+        *in alternativa, scegli Notepad (preinstallato su Windows)* |
+    - lascia le altre impostazioni di default
+  3.	Apri il prompt dei comandi: start -> cerca cmd
+4.	Scegli una cartella su cui salvare la repository, ad es. Documenti, ed esegui il seguente comando:
 
 	  **cd C:\Users\\_nome-utente_\Documenti**
 5.	**git clone https://github.com/francescodrnz/Il-Nostro-Diario-delle-Ricette.git**
@@ -48,20 +48,20 @@
 I file ora sono disponibili nella cartella selezionata, ad esempio C:\Users\\*nome-utente*\Documents\Il-Nostro-Diario-delle-Ricette, ed è possibile fare modifiche.
 
 ### Inserire una ricetta
-*Solo la prima volta: installare il font disponibile nella cartella utils: Comfortaa.ttf*
+*Solo la prima volta: installa il font disponibile nella cartella utils: Comfortaa.ttf*
 1.	| ![](https://i.imgur.com/9jg2qpe.png) | 
     |:--:| 
     | *Da esplora risorse, tasto destro nella cartella principale -> Git Bash Here* |
-2.	Eseguire il comando **git pull** per sincronizzare eventuali modifiche
-3.	Aprire il file *Template Ricette.docx* disponibile nella cartella *utils*
-4.	Scrivere la ricetta seguendo il template
+2.	Esegui il comando **git pull** per sincronizzare eventuali modifiche
+3.	Apri il file *Template Ricette.docx* disponibile nella cartella *utils*
+4.	Scrivi la ricetta seguendo il template
 5.	File -> Salva con nome -> Sfoglia -> selezionare la cartella corretta in base al tipo di ricetta -> Salva come: scegliere PDF -> Salva
-6.	Eseguire i seguenti comandi:
+6.	Esegui i seguenti comandi:
     - **git add .**
-    -	**git commit -m “Inserire un messaggio che descriva le modifiche”**
+    -	**git commit -m “Inserisci un messaggio che descriva le modifiche”**
     -	**git push**
   
-        *Solo la prima volta: chiedere a @giazaki di essere aggiunto come collaboratore*
+        *Solo la prima volta: chiedi a @giazaki di essere aggiunto come collaboratore*
     
-        _Solo la prima volta: si aprirà una finestra per effettuare il login su GitHub, seguire le istruzioni; successivamente, eseguire il seguente comando (per salvare le credenziali, in modo da non fare più il login):
+        _Solo la prima volta: si aprirà una finestra per effettuare il login su GitHub, segui le istruzioni; successivamente, esegui il seguente comando (per salvare le credenziali, in modo da non fare più il login):
 **git config credential.helper store**_
