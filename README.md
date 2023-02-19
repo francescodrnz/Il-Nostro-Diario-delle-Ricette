@@ -38,6 +38,25 @@
  
 </details>
 
+<details>
+ <summary>Piatti Unici</summary>
+ 
+   - [Fagotto Ripieno Liberté](Piatti%20Unici/Fagotto%20Ripieno%20Liberté.pdf)
+   - [Hamburger Autoprodotto](Piatti%20Unici/Hamburger%20Autoprodotto.pdf)
+   - [Piadina](Piatti%20Unici/Piadina.pdf)
+   - [Zuppa di cipolle](Piatti%20Unici/Zuppa%20di%20cipolle.pdf)
+   - [Zuppa di salsicce, fagioli e birra](Piatti%20Unici/Zuppa%20di%20salsicce,%20fagioli%20e%20birra.pdf)
+  
+</details>
+
+<details>
+ <summary>Contorni</summary>
+ 
+   - [Spadellata della Bandiera Indiana](Contorni/Spadellata%20della%20Bandiera%20Indiana.pdf)
+   
+</details>
+ 
+
 ## Documentazione
 ### Inizializzazione
 1. [Installa Git sul tuo pc](https://git-scm.com/downloads). Impostazioni consigliate:
